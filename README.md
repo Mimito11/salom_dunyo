@@ -1,3 +1,3 @@
 # salom_dunyo
 Mening 1-onlayn kodim
-Salom
+Yana bir o'zgarish
